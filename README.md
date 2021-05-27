@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm RV, a  passionate Software developer from India developer 👨‍💻 </div>  
+### <div align="center">I'm RV, a  passionate Software developer from India 👨‍💻 </div>  
   
 
 - 🚀 Currently I'm pursuing M.Tech in Information Technology (Software Engineering specialization) from [IIIT Allahabad ](https://www.iiita.ac.in/)  
@@ -83,11 +83,6 @@
 
 <br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
 
 
 ## Recent Blog Posts  
