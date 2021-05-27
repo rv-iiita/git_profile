@@ -12,7 +12,10 @@
 - 🌱 I’m currently working as Teaching Assistant in IIIT Allahabad  
   
 
-- ❓ Ask me about anything !!  
+- ❓ Ask me about anything !! 
+
+
+- 📫 How to reach me **samplemail@gmail.com**
   
 
 <br/>  
