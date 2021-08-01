@@ -2,8 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" "length: 20%" />
 </div>   -->
   
-
-### <div align="center">Hi there 👋,I'm Rituvendra, a passionate Software developer from India 👨‍💻 </div> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm RV</h1>
+<!-- ### <div align="center">Hi there 👋,I'm Rituvendra </div>  -->
 Currently pursuing a two year Master's program with a focus on Software engineering at Indian Institute of Information Technology(IIIT) , Allahabad,(UP) which is one of the prestigious technical institute in India. My current research involves Fraud detection in Healthcare domain using Machine Learning methods.</br></br>
 
 Previously, I worked as a Software Engineer Intern at Health OK - Smart Healthzone Pvt. Ltd, Gorakhpur(UP) where I worked with a wide range of projects including agile software product development, website development, Android application development. With my past education and experience in Computer science & Engineering, I now aspire to explore and work in the Software development field to make significant contributions. Please feel free to reach out if this sounds interesting! </br>
