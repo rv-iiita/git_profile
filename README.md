@@ -3,7 +3,10 @@
 </div>   -->
   
 
-### <div align="center">Hi there 👋,I'm RV, a passionate Software developer from India 👨‍💻 </div>  
+### <div align="center">Hi there 👋,I'm Rituvendra, a passionate Software developer from India 👨‍💻 </div> 
+Currently pursuing a two year Master's program with a focus on Software engineering at Indian Institute of Information Technology(IIIT) , Allahabad,(UP) which is one of the prestigious technical institute in India. My current research involves Fraud detection in Healthcare domain using Machine Learning methods.</br></br>
+
+Previously, I worked as a Software Engineer Intern at Health OK - Smart Healthzone Pvt. Ltd, Gorakhpur(UP) where I worked with a wide range of projects including agile software product development, website development, Android application development. With my past education and experience in Computer science & Engineering, I now aspire to explore and work in the Software development field to make significant contributions. Please feel free to reach out if this sounds interesting! </br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
   
 
