@@ -2,9 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" "length: 20%" />
 </div>   -->
   
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm RV</h1>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm RV</h2>
 <!-- ### <div align="center">Hi there 👋,I'm Rituvendra </div>  -->
-Currently pursuing a two year Master's program with a focus on Software engineering at Indian Institute of Information Technology[(IIIT) Allahabad ](https://www.iiita.ac.in/) Allahabad,(UP) which is one of the prestigious technical institute in India. My current research involves Fraud detection in Healthcare domain using Machine Learning methods.</br></br>
+Currently pursuing a two year Master's program with a focus on Software engineering at [IIIT Allahabad](https://www.iiita.ac.in/) Allahabad which is one of the prestigious technical institute in India. My current research work involves Fraud detection in Healthcare domain using Machine Learning methods.</br>
 
 Previously, I worked as a Software Engineer Intern at Health OK - Smart Healthzone Pvt. Ltd, Gorakhpur(UP) where I worked with a wide range of projects including agile software product development, website development, Android application development. With my past education and experience in Computer science & Engineering, I now aspire to explore and work in the Software development field to make significant contributions. Please feel free to reach out if this sounds interesting! </br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
