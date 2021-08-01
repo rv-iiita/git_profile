@@ -31,13 +31,10 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 
 ### Frontend  
 <div align="center">  
- - 🔭 I’m currently 
-
-- 👯 I’m looking 
-
-- 👨‍💻 All of my 
-
-- 💬 Ask me about
+- I’m currently
+- I’m looking 
+- All of my 
+- Ask me about
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
