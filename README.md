@@ -18,7 +18,7 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 - ❓ Ask me about anything !! 
 
 
-- 📫 How to reach me  [**samplemail@gmail.com**](mailto:someone@example.com)
+- 📫 How to reach me  <a href="mailto:someone@example.com">Send email</a> [**samplemail@gmail.com**](mailto:someone@example.com)
   
 
 <br/>  
