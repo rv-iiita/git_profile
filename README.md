@@ -18,7 +18,7 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 - ❓ Ask me about anything !! 
 
 
-- 📫 How to reach me **samplemail@gmail.com**
+- 📫 How to reach me  [**samplemail@gmail.com**](https://www.iiita.ac.in/)
   
 
 <br/>  
@@ -78,11 +78,11 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 
 
 ## Connect with me  
-<div align="left">
-<a href="https://github.com/rvbhaiya" target="_blank">
+<div align="center">
+<a href="https://github.com/rv-iiita" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rvbhaiya" target="_blank">
+<a href="https://linkedin.com/in/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
