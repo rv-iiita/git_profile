@@ -18,7 +18,7 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 - ❓ Ask me about anything !! 
 
 
-- 📫 How to reach me  [**samplemail@gmail.com**](https://www.iiita.ac.in/)
+- 📫 How to reach me  [**samplemail@gmail.com**](mailto:someone@example.com)
   
 
 <br/>  
