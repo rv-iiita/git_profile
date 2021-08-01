@@ -90,26 +90,19 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 
 <br/>  
 
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
   
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rv-iiita&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Thanks for visiting ❤️ </div>
+<!-- <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> -->
