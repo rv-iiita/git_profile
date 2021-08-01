@@ -1,9 +1,10 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" "length: 20%" />
-</div>  
+</div>   -->
   
 
 ### <div align="center">Hi there 👋,I'm RV, a passionate Software developer from India 👨‍💻 </div>  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
 - 🚀 Currently I'm pursuing M.Tech in Information Technology (Software Engineering specialization) from [IIIT Allahabad ](https://www.iiita.ac.in/)  
