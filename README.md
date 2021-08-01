@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" "length: 20%" />
 </div>   -->
   
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm RV</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm RV</h1>
 <!-- ### <div align="center">Hi there 👋,I'm Rituvendra </div>  -->
 Currently pursuing a two year Master's program with a focus on Software engineering at <a href="https://www.iiita.ac.in/"> IIIT Allahabad</a> which is one of the prestigious technical institute in India. My current research work involves Fraud detection in Healthcare domain using Machine Learning methods.</br>
 
