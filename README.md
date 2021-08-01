@@ -4,9 +4,7 @@
   
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm RV</h1>
 <!-- ### <div align="center">Hi there 👋,I'm Rituvendra </div>  -->
-Currently pursuing a two year Master's program with a focus on Software engineering at <a href="https://www.iiita.ac.in/"> IIIT Allahabad</a> which is one of the prestigious technical institute in India. My current research work involves Fraud detection in Healthcare domain using Machine Learning methods.</br>
-
-. With my past education and experience in Computer science & Engineering, I now aspire to explore and work in the Software development field to make significant contributions. Please feel free to reach out if this sounds interesting! </br>
+Currently pursuing a two-year Master's program with a focus on Software engineering at <a href="https://www.iiita.ac.in/"> IIIT Allahabad</a> which is one of the prestigious technical institute in India. My current research work involves Fraud detection in the Healthcare domain using Machine Learning methods. With my past education and experience in Computer science & Engineering, currently I am willing to work in the Software development field and make significant contributions. Please feel free to reach out if this sounds interesting! </br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
   
  <b>⚡ My Experience:</b>
@@ -33,7 +31,9 @@ Currently pursuing a two year Master's program with a focus on Software engineer
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+ - ssuidhyvsduhvdsvhsvb
+  - jvsdbvksjvbsv
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -41,7 +41,7 @@ Currently pursuing a two year Master's program with a focus on Software engineer
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />   -->
 </div>
 
 </td><td valign="top" width="33%">
