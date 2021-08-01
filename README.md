@@ -88,8 +88,6 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 </div>  
   
 
-<br/>  
-
   
 <!-- 
 <br/>  
