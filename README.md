@@ -6,14 +6,15 @@
 <!-- ### <div align="center">Hi there 👋,I'm Rituvendra </div>  -->
 Currently pursuing a two year Master's program with a focus on Software engineering at <a href="https://www.iiita.ac.in/"> IIIT Allahabad</a> which is one of the prestigious technical institute in India. My current research work involves Fraud detection in Healthcare domain using Machine Learning methods.</br>
 
-Previously, I worked as a Software Engineer Intern at Health OK - Smart Healthzone Pvt. Ltd, Gorakhpur(UP) where I worked with a wide range of projects including agile software product development, website development, Android application development. With my past education and experience in Computer science & Engineering, I now aspire to explore and work in the Software development field to make significant contributions. Please feel free to reach out if this sounds interesting! </br>
+. With my past education and experience in Computer science & Engineering, I now aspire to explore and work in the Software development field to make significant contributions. Please feel free to reach out if this sounds interesting! </br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
   
+ <b>⚡ My Experience:</b>
 
-- 🚀 Currently I'm pursuing M.Tech in Information Technology (Software Engineering specialization) from [IIIT Allahabad ](https://www.iiita.ac.in/)  
+- 🚀 Currently I'm working as Teaching assistant at [IIIT Allahabad ](https://www.iiita.ac.in/).  
   
 
-- 🌱 I’m currently working as Teaching Assistant in IIIT Allahabad  
+- 🌱 Previously, I worked as a Software Engineer Intern at Health OK - Smart Healthzone Pvt. Ltd, Gorakhpur(UP) where I worked with a wide range of projects including agile software product development, website development, Android application development  
   
 
 - ❓ Ask me about anything !! 
