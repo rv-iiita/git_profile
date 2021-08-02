@@ -31,7 +31,7 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 
 
 ### Programming languages 
-<div align="center">  
+<div align="left">  
   
 - C
   
@@ -59,10 +59,21 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 
 
 
-### Backend  
-<div align="center">
+### Course taken 
+<div align="left">
+ 
+ - Operating system
   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+
+- DBMS
+ 
+ 
+- Computer networking
+ 
+ 
+- Data Structure & Algorithm
+ 
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
@@ -71,23 +82,31 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />   -->
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+### Misc.  
+<div align="left"> 
+ 
+ - Latex
+  
+
+- Linux
+ 
+ 
+
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   -->
 </div>
 
 </td></tr></table>  
 
-<br/>  
+<!-- <br/>   -->
 
 
 ## Connect with me  
