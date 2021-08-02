@@ -13,7 +13,8 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 - 🚀 Currently I'm working as Teaching assistant at [IIIT Allahabad ](https://www.iiita.ac.in/).  
   
 
-- 🚀 Previously, I worked as a Software Engineer Intern at Health OK - Smart Healthzone Pvt. Ltd, Gorakhpur(UP) where I worked with a wide range of projects including agile software product development, website development, Android application development. <b>Technology stack used: </b>JAVA, Android application development , HTML , CSS, REST API
+- 🚀 Previously, I worked as a Software Engineer Intern at Health OK - Smart Healthzone Pvt. Ltd, Gorakhpur(UP) where I worked with a wide range of projects including agile software product development, website development, Android application development.
+- **Technology stack used:** C, C++, JAVA, Python (Basic), Android application development, HTML/CSS, REST API.
   
 
 <br/>  
