@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm RV</h1>
 <!-- ### <div align="center">Hi there 👋,I'm Rituvendra </div>  -->
 Currently pursuing a two-year Master's program with a focus on Software engineering at <a href="https://www.iiita.ac.in/"> IIIT Allahabad</a> which is one of the prestigious technical institute in India. My current research work involves Fraud detection in the Healthcare domain using Machine Learning methods. With my past education and experience in Computer science & Engineering, currently I am willing to work in the Software development field and make significant contributions. Please feel free to reach out if this sounds interesting! </br>
-<img align="right" alt="GIF" src="https://github.com/rv-iiita/rv-iiita/blob/main/code.gif?raw=true" width="450" height="330" />
+<img align="right" alt="GIF" src="https://github.com/rv-iiita/rv-iiita/blob/main/code.gif?raw=true" width="400" height="280" />
 <!--  https://github.com/rv-iiita/rv-iiita/blob/main/code.gif -->
   
  <b>⚡ My Experience:</b>
@@ -16,19 +16,13 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 - 🚀 Previously, I worked as a Software Engineer Intern at Health OK - Smart Healthzone Pvt. Ltd, Gorakhpur(UP) where I worked with a wide range of projects including agile software product development, website development, Android application development. <b>Technology stack used: </b>JAVA, Android application development , HTML , CSS, REST API
   
 
-- ❓ Ask me about anything !! 
-
-
-- 📫 How to reach me **samplemail@gmail.com**
-  
-
 <br/>  
 
 
 
 ## Connect with me  
 <div align="center">
- <a href="https://github.com/rv-iiita" target="_blank">
+ <a href="mailto:samplemail@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/rv-iiita" target="_blank">
