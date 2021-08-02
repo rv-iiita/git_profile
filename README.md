@@ -25,7 +25,7 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 <br/>  
 
 
-## My Skill Set  
+<!-- ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -104,7 +104,7 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   -->
 </div>
 
-</td></tr></table>  
+</td></tr></table>   -->
 
 <!-- <br/>   -->
 
