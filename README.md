@@ -28,6 +28,9 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 
 ## Connect with me  
 <div align="center">
+ <a href="https://github.com/rv-iiita" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/rv-iiita" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -37,7 +40,7 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 </div>  
   
 
-  
+<!--   gmail -->
 <!-- 
 <br/>  
 
