@@ -48,6 +48,6 @@ Currently pursuing a two-year Master's program with a focus on Software engineer
 
 
 
-----
+<!-- ---- -->
 <div align="center">Thanks for visiting ❤️ </div>
 <!-- <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> -->
