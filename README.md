@@ -3,7 +3,7 @@
 </div>   -->
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm RV</h1>
-<!-- ### <div align="center">Hi there 👋,I'm Rituvendra </div>  -->
+<!-- ### <div align="center">Hi there 👋,I'm 🆁🅸🆃🆄🆅🅴🅽🅳🆁🅰 </div>  -->
 Currently pursuing a two-year Master's program with a focus on Software engineering at <a href="https://www.iiita.ac.in/"> IIIT Allahabad</a> which is one of the prestigious technical institute in India. My current research work involves Fraud detection in the Healthcare domain using Machine Learning methods. With my past education and experience in Computer science & Engineering, currently I am willing to work in the Software development field and make significant contributions. Please feel free to reach out if this sounds interesting! </br>
 <img align="right" alt="GIF" src="https://github.com/rv-iiita/rv-iiita/blob/main/code.gif?raw=true" width="380" height="260" />
 <!--  https://github.com/rv-iiita/rv-iiita/blob/main/code.gif -->
